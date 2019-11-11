@@ -22,7 +22,7 @@ public interface CommonConstant {
 	/**
 	 * nacos test 地址
 	 */
-	String NACOS_TEST_ADDR = "172.30.0.48:8848";
+	String NACOS_TEST_ADDR = "127.0.0.1:8848";
 
 	/**
 	 * sentinel dev 地址
@@ -37,7 +37,7 @@ public interface CommonConstant {
 	/**
 	 * sentinel test 地址
 	 */
-	String SENTINEL_TEST_ADDR = "172.30.0.58:8858";
+	String SENTINEL_TEST_ADDR = "127.0.0.1:8858";
 
 	/**
 	 * zipkin dev 地址
