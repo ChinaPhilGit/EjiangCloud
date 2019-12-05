@@ -14,4 +14,4 @@ blade:
     test:
         url: jdbc:mysql://114.116.79.165:3306/ejiang-cloud?useSSL=false&useUnicode=true&characterEncoding=utf-8&zeroDateTimeBehavior=convertToNull&transformedBitIsBoolean=true&tinyInt1isBit=false&allowMultiQueries=true&serverTimezone=GMT%2B8
         username: ejiang-cloud
-        password: P@ssw02d!
+        password: 'P@ssw02d!'

@@ -17,17 +17,17 @@ public interface LauncherConstant {
 	/**
 	 * nacos dev 地址
 	 */
-	String NACOS_DEV_ADDR = "127.0.0.1:8848";
+	String NACOS_DEV_ADDR = "117.78.19.212:8848";
 
 	/**
 	 * nacos prod 地址
 	 */
-	String NACOS_PROD_ADDR = "172.30.0.48:8848";
+	String NACOS_PROD_ADDR = "117.78.60.89:8848";
 
 	/**
 	 * nacos test 地址
 	 */
-	String NACOS_TEST_ADDR = "172.30.0.48:8848";
+	String NACOS_TEST_ADDR = "117.78.19.212:8848";
 
 	/**
 	 * sentinel dev 地址
