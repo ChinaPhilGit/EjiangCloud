@@ -10,6 +10,6 @@ EXPOSE 8105
 
 ADD ./target/blade-desk.jar ./app.jar
 
-ENTRYPOINT ["java", "-Djava.security.egd=file:/dev/./urandom", "-jar", "app.jar"]
+ENTRYPOINT ["java", "-Djava.security.egd=file:/dev/./urandom", "-jar","-Dspring.profiles.active=${SPRING_PROFILES_ACTIVE}", "app.jar"]
 
-CMD ["--spring.profiles.active=test"]
+#CMD ["--spring.profiles.active=test"]

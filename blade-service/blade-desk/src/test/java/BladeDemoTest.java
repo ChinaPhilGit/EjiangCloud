@@ -14,7 +14,7 @@ import org.springframework.boot.test.context.SpringBootTest;
  */
 @RunWith(BladeSpringRunner.class)
 @SpringBootTest(classes = DeskApplication.class)
-@BladeBootTest(appName = "blade-desk", profile = "test", enableLoader = true)
+@BladeBootTest(appName = "blade-desk", profile = "dev", enableLoader = true)
 public class BladeDemoTest {
 
 	@Autowired
