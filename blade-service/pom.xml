@@ -22,6 +22,7 @@
         <module>blade-system</module>
         <module>blade-user</module>
         <module>blade-demo</module>
+        <module>ejiang-demos</module>
     </modules>
 
     <dependencies>

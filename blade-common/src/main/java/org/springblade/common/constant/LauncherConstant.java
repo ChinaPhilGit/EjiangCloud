@@ -27,7 +27,7 @@ public interface LauncherConstant {
 	/**
 	 * nacos test 地址
 	 */
-	String NACOS_TEST_ADDR = "127.0.0.1:8848";
+	String NACOS_TEST_ADDR = "192.168.1.181:8848";
 
 	/**
 	 * sentinel dev 地址
@@ -42,7 +42,7 @@ public interface LauncherConstant {
 	/**
 	 * sentinel test 地址
 	 */
-	String SENTINEL_TEST_ADDR = "127.0.0.1:8858";
+	String SENTINEL_TEST_ADDR = "192.168.1.181:8858";
 
 	/**
 	 * zipkin dev 地址
@@ -57,7 +57,7 @@ public interface LauncherConstant {
 	/**
 	 * zipkin test 地址
 	 */
-	String ZIPKIN_TEST_ADDR = "http://127.0.0.1:9411";
+	String ZIPKIN_TEST_ADDR = "http://192.168.1.181:9411";
 
 	/**
 	 * 动态获取nacos地址
