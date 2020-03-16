@@ -1,9 +1,9 @@
  <p align="center">
-      <img src="https://img.shields.io/badge/Release-V2.5.4-green.svg" alt="Downloads">
+      <img src="https://img.shields.io/badge/Release-V2.6.2-green.svg" alt="Downloads">
       <img src="https://img.shields.io/badge/JDK-1.8+-green.svg" alt="Build Status">
   <img src="https://img.shields.io/badge/license-Apache%202-blue.svg" alt="Build Status">
-   <img src="https://img.shields.io/badge/Spring%20Cloud-Greenwich.SR3-blue.svg" alt="Coverage Status">
-   <img src="https://img.shields.io/badge/Spring%20Boot-2.1.9.RELEASE-blue.svg" alt="Downloads">
+   <img src="https://img.shields.io/badge/Spring%20Cloud-Hoxton.SR2-blue.svg" alt="Coverage Status">
+   <img src="https://img.shields.io/badge/Spring%20Boot-2.2.5.RELEASE-blue.svg" alt="Downloads">
    <a target="_blank" href="https://bladex.vip">
    <img src="https://img.shields.io/badge/Author-Small%20Chill-ff69b4.svg" alt="Downloads">
  </a>
@@ -11,11 +11,6 @@
    <img src="https://img.shields.io/badge/Copyright%20-@BladeX-%23ff3f59.svg" alt="Downloads">
  </a>
  </p>  
-
-
-## 2019年度最受欢迎中国开源软件评选
-* 请为SpringBlade投上一票，非常感谢～
-* 投票地址：[https://www.oschina.net/project/top_cn_2019](https://www.oschina.net/project/top_cn_2019)
 
 ## SpringBlade微服务开发平台
 * 采用前后端分离的模式，前端开源两个框架：[Sword](https://gitee.com/smallc/Sword) (基于 React、Ant Design)、[Saber](https://gitee.com/smallc/Saber) (基于 Vue、Element-UI)
@@ -61,8 +56,9 @@ SpringBlade
 * 官网地址：[https://bladex.vip](https://bladex.vip)
 * 问答社区：[https://sns.bladex.vip](https://sns.bladex.vip)
 * 会员计划：[SpringBlade会员计划](https://gitee.com/smallc/SpringBlade/wikis/SpringBlade会员计划)
-* 交流一群：`477853168`
-* 交流二群：`751253339`
+* 交流一群：`477853168`(满)
+* 交流二群：`751253339`(满)
+* 交流三群：`784729540`
 
 ## 在线演示
 * Saber-基于Vue：[https://saber.bladex.vip](https://saber.bladex.vip)
